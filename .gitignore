@@ -1,0 +1,13 @@
+target/
+node_modules/
+.next/
+contracts/**/test_snapshots/
+dist/
+coverage/
+.env
+.env.local
+*.wasm
+.DS_Store
+dev-server*.log
+*.tsbuildinfo
+.idea/

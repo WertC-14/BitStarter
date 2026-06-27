@@ -1,0 +1,12 @@
+{
+  "name": "bitstarter-seed",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "seed": "node seed.mjs"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  }
+}
